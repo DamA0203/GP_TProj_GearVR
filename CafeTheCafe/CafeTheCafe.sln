@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CafeTheCafe.CSharp", "CafeTheCafe.CSharp.csproj", "{84DFB769-B3E1-2E86-9968-B7106E5BE8A1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CafeTheCafe.CSharp.Editor", "CafeTheCafe.CSharp.Editor.csproj", "{84E69E61-7D1B-6D12-6166-BD431BF40CCF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{84DFB769-B3E1-2E86-9968-B7106E5BE8A1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{84DFB769-B3E1-2E86-9968-B7106E5BE8A1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{84DFB769-B3E1-2E86-9968-B7106E5BE8A1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{84DFB769-B3E1-2E86-9968-B7106E5BE8A1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{84E69E61-7D1B-6D12-6166-BD431BF40CCF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{84E69E61-7D1B-6D12-6166-BD431BF40CCF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{84E69E61-7D1B-6D12-6166-BD431BF40CCF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{84E69E61-7D1B-6D12-6166-BD431BF40CCF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
