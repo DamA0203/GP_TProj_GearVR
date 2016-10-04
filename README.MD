@@ -36,6 +36,11 @@ _This document contains `Project Proposal` and `Update Log.`_
 
 # Update Log
 
+##### 2016-10-04
+
+* Add the simple room for check touchpad operation
+
+
 ##### 2016-10-03
 
 * Create unity project "CafeTheCafe"
